@@ -1,5 +1,4 @@
 # what3words-converter
-Use what3words to get a set of GPS coordinates and convert the format of the location
 
 [what3words](https://what3words.com/clip.apples.leap) is a mapping program that assigns a three-word phrase to every 3mx3m square on Earth. These phrases are easier to rememeber than GPS coordinates and are useful for locations where street addresses don't exist, like parks or parking lots.
 
