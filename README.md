@@ -5,4 +5,4 @@ Use what3words to get a set of GPS coordinates and convert the format of the loc
 
 This Python script prompts the user for three words, and uses the [what3words API](https://developer.what3words.com/public-api/docs#overview) to return the coordinates of that location. The API uses the decimal degrees format, so this script also converts and displays the output to decimal minutes and decimal seconds as well.
 
-This program does require users to have a [what3words account](https://what3words.com/select-plan?referrer=/public-api&currency=USD) to be able to use the API.
+This program requires users to have a [what3words account](https://what3words.com/select-plan?referrer=/public-api&currency=USD) to be able to use the API.
